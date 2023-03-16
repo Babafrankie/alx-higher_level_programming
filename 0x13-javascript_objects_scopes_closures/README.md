@@ -1,4 +1,4 @@
-# Javascript - Objects, Scopes and Closures
+0x0F. Python - Object-relational mapping
 
 In this second Holberton JavaScript project I dived into the infamously fun
 aspects of the language - scope, closures and `this`. I practiced working with
